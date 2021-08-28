@@ -27,7 +27,7 @@ Java 1.6+ .
 
 ## Dependencies
 
-Java should be installed on our system.
+Java should be installed on your system.
 
 ## Installation
 Download the PhoneBook.java file and run below commands on your downloaded folder.
