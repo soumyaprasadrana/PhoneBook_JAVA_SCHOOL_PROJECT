@@ -51,7 +51,7 @@ Update contact is working on name basis while name is not a priary key on the da
   ### Load Application :
   This module fetches all your previously saved contact from the file named&quot;db.xyz&quot; .It uses File Reading and Writing functions to store your saved contact to a file.It helps to make the application more reliable.
   ### Authentication :
-  This module helps to make your data private and protect fro unauthorized access.It also helped to change your password you you are authorized to do so.
+  This module helps to make your data private and protect from unauthorized access.
   ### ENCODER: 
   This module helps to to encrypt your data and to save it into file in encrypted format.
   This module is used at the time of file operation to save or update your data to the main source and the time of loading to decrypt the data gained from the main source.
@@ -99,7 +99,7 @@ Successful execution of the module add the entered information into your phone b
 
 ## How to test the software
 
-You can use the **BOT**tmodule to generate bulk and test the application.
+You can use the **BOT** module to generate bulk data and test the application.
 
 
 
@@ -112,8 +112,4 @@ You can use the **BOT**tmodule to generate bulk and test the application.
 
 ----
 
-## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
