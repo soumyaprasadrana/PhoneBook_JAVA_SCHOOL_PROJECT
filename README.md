@@ -20,7 +20,7 @@ Objective also includes performing basic operations such as view existing contac
 Java 1.6+ .
  
 
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
+**Screenshot**:
 
 ![](https://raw.githubusercontent.com/soumyaprasadrana/PhoneBook_JAVA_SCHOOL_PROJECT/main/images/phoneBook.png)
 
